@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\work_15\\task15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D819EB0-C205-48C7-A9BF-985CCF7757F9}|task15.csproj|c:\\users\\administrator\\desktop\\work_15\\task15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D819EB0-C205-48C7-A9BF-985CCF7757F9}|task15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\enums\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\exceptions\\nameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\models\\classrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\exceptions\\classroomnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\exceptions\\surnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810A8AF9-7072-4AC0-A9E9-5B62617EABB1}|..\\Core\\Core.csproj|c:\\users\\administrator\\desktop\\work_15\\core\\models\\allclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\AllClass.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\AllClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\AllClass.cs",
+              "RelativeToolTip": "..\\Core\\Models\\AllClass.cs",
+              "ViewState": "AQIAAA4AAAAAzczMzMwQwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:48:45.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassRoomNameException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\ClassRoomNameException.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Exceptions\\ClassRoomNameException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\ClassRoomNameException.cs",
+              "RelativeToolTip": "..\\Core\\Exceptions\\ClassRoomNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:56:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SurnameException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\SurnameException.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Exceptions\\SurnameException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\SurnameException.cs",
+              "RelativeToolTip": "..\\Core\\Exceptions\\SurnameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:51:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\task15\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\task15\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACUAAACA//////8PwC8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:21:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classrom.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\Classrom.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Classrom.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\Classrom.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Classrom.cs",
+              "ViewState": "AQIAACAAAAAAmpmZmZkJwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:46:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\NameException.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Exceptions\\NameException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Exceptions\\NameException.cs",
+              "RelativeToolTip": "..\\Core\\Exceptions\\NameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:31:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Enums\\ClassType.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\ClassType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Enums\\ClassType.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\ClassType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:21:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_15\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Student.cs",
+              "ViewState": "AQIAABQAAACAmZmZmZkpwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:50:17.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
